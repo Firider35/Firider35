@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hello there 👋
+### Who I am
+I'm Filip Výborný, a 15 year old student at Gymnázium Pardubice Dašická 1083, and I'm learning to make videogames because it's interesting to me, mostly at least partially realistic ones
+I like fixing stuff (even though most of the time it is only in games)
+My favorite game is INFRA
+
+### My current projects
+As of last edit, I'm working on:
+TerraDynamics - Project about making a very realistic simulation with realistic physics and real world things along with [vitekform](https://github.com/vitekform)
+INFRA: Unityfied - Project about remaking the game [INFRA](https://loisteinteractive.com/en/infra.html) from the ground up in Unity, along with all (or most) of the fan mods, and some more stuff
+ACG: Re-Recrafted - Project about remaking version 0.55c+ of the Roblox game [A Core Game](https://www.roblox.com/games/6576912941/A-Core-Game#!)
+
+### What I am learning
+Essentially learning a bit of everything
+C# (Unity)
+Luau (Roblox Studio)
+
+### How to reach me
+You can reach me:
+Via [Gmail](mailto:vyborny.fila@gmail.com)
+Via Discord via username filipvyborny
 
 <!--
 **Firider35/Firider35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
